@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buscador-con-filtro-react/static/css/main.e881a01b.css",
+    "main.js": "/buscador-con-filtro-react/static/js/main.0b74d936.js",
+    "index.html": "/buscador-con-filtro-react/index.html",
+    "main.e881a01b.css.map": "/buscador-con-filtro-react/static/css/main.e881a01b.css.map",
+    "main.0b74d936.js.map": "/buscador-con-filtro-react/static/js/main.0b74d936.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e881a01b.css",
+    "static/js/main.0b74d936.js"
+  ]
+}
